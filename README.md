@@ -20,7 +20,7 @@ This project is ideal for researchers, marketers, and analysts needing automated
 ## Setup Instructions
 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/ai-agent-data-extraction.git
+git clone https://github.com/yashowardhanspatil/ai-agent-data-extraction.git
 cd ai-agent-data-extraction
 
 ```
