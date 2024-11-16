@@ -88,3 +88,8 @@ The placeholder {entity} will be replaced dynamically by each entry in the selec
 - Regex-Based Extraction: Efficiently extracts emails without relying on Groq for every query.
 - Improved Query Design: Custom query templates to improve data retrieval accuracy.
 - Error Handling: Gracefully handles missing data and API errors.
+
+## Video Walkthrough
+
+Watch the 2-minute video walkthrough of the project [here](https://www.loom.com/share/be388deb83ec4b7f98e42d58c77e81f5?sid=680acafc-134b-4166-b3fd-4c64c62c0343).
+
