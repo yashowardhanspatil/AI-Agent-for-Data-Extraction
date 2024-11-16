@@ -47,7 +47,7 @@ GROQ_API_KEY=your-groq-api-key
 5. Run the Application
 Start the Streamlit app:
     
-    streamlit run app.py
+    ``` streamlit run app.py ```
 
 ## Usage Guide
 ### Step 1: Choose Data Source
